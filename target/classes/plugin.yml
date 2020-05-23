@@ -1,0 +1,4 @@
+name: MysqlMain
+version: 1.0.0
+main: aquarius0715.mysqlmain.MysqlMain
+api-version: 1.12.2
